@@ -1,10 +1,5 @@
 ### Oioi! Prazer em lhe ter aqui! 
 
-<div>
-  <a href="https://github.com/MariaEduardaBernardo">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaBernardo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaBernardo&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
   
  <div>
    <a href= ""><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
